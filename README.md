@@ -10,4 +10,4 @@ Creating Electron app for fun
  3. npx electron-packager src ElectronForFun --platform=darwin --arch=x64 --overwrite
 ```
 
-2. Doble click the file ./ElectronForFun-darwin-x64/ElectronForFun.app
+2. Double click the file ./ElectronForFun-darwin-x64/ElectronForFun.app
